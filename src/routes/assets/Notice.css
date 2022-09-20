@@ -1,0 +1,18 @@
+* {
+    margin: 0; 
+}
+
+.App{
+    background-color: #fafafa;
+    height: 100vh;
+}
+
+.NoticeheaderImage{
+    background-color: white;
+    padding: 1px;
+    border-bottom: 1px solid lightgray;
+    object-fit: contain;
+}
+
+
+

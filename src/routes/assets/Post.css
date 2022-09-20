@@ -1,0 +1,6 @@
+/* post css */
+.postImage {
+    width: 50%;
+    object-fit: contain;
+}
+
